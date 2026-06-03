@@ -1,0 +1,5 @@
+google-generativeai
+python-dotenv
+streamlit
+cohere
+cerebras-cloud-sdk
